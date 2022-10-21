@@ -1,2 +1,2 @@
 # WaterGames
-%%Fluid simulation for mobile games 
+## Fluid simulation for mobile games 
