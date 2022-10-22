@@ -4,4 +4,4 @@
 references
  
  - ## fluid simulation 
- [Interactive2DParticle-basedFluidSimulation forMobileDevices](https://github.com/mohamd-Aljohmani/WaterGames/edit/main/README.md)
+ [Interactive2DParticle-basedFluidSimulation forMobileDevices](www.diva-portal.org/smash/get/diva2:676516/FULLTEXT01.pdf)
